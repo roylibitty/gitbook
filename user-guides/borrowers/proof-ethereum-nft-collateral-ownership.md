@@ -11,18 +11,26 @@ Visit the Bitty website and connect your wallet in the top right corner.\
 Click “Ethereum”\
 Click “Loans”
 
+![Delegate cash 1](https://github.com/user-attachments/assets/692e6496-8c7f-4d7c-8472-caa81944d829)
+
 Select the NFT you want to delegate and click the three dots to the right of “Borrow More”.\
-Click "Set Delegate Cash."\
+Click "Set Delegate Cash."
+
+![Delegate cash 2](https://github.com/user-attachments/assets/6d413564-a2a1-41a8-bf17-8f0f6132bc1f)
+
 Your wallet will pop up and confirm your account.\
 You have now securely delegated the airdrop staked on Bitty to your wallet.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 
 If you want to delegate multiple NFTs in one transaction,\
 Click “Select All Loans”\
-Click “Set Delegate Cash”\
+Click “Set Delegate Cash”
+
+![Delegate cash3](https://github.com/user-attachments/assets/bdd5ea7f-089b-4239-877a-ec74360843e4)
+
 Your wallet will pop up and confirm your account.\
 You have now securely delegated all of the airdropped NFTs as collaterals on Bitty to your wallet:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 
